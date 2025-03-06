@@ -6,7 +6,7 @@ let picOpen = false;
 const sentence = [
     "[A young french developer]", 
     "[HTML, CSS, JS, PHP]",
-    "[Vue, Nuxt, React, Tailwind]"
+    "[Vue, Nuxt, React, Tailwind, Laravel]"
 ];
 let indexSentence = 0;
 let animationDuration = 8000;
