@@ -292,7 +292,8 @@ h1 span {
 }
 
 #desc {
-  width: max-content;
+  white-space: normal;
+  max-width: 394px;
   height: 22px;
   border-right: 2px white solid;
   display: flex;
